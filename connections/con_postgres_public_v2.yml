@@ -1,0 +1,6 @@
+unique_name: con_postgres_public_v2
+object_type: connection
+label: con_postgres_public
+as_connection: SupabaseDW
+database: postgres
+schema: public
